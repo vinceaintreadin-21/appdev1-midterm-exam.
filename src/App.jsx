@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "./tooplate-minimal-white-style.css";
+import "./tooplate-minimal-white-style.css"; 
 
 function App() {
   useEffect(() => {
